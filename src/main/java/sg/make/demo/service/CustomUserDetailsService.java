@@ -1,4 +1,4 @@
-package sg.make.demo.security;
+package sg.make.demo.service;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
