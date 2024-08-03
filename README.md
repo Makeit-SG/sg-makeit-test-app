@@ -89,7 +89,7 @@ This project is a full-stack web application that leverages a Spring Boot backen
 
 ## Running the Application
 
-To run the application, ensure that the backend server is up and running, and then start the frontend Flutter Web application. Access the application via `http://localhost:8080` in your web browser.
+To run the application, ensure that the backend server is up and running, and then start the frontend Flutter Web application. Access the application via `http://localhost:8081` in your web browser.
 
 ## Screenshots
 
