@@ -51,7 +51,7 @@ This project is a full-stack web application that leverages a Spring Boot backen
 
 1. Clone the repository:
     ```bash
-    git clone [https://github.com/your-username/your-repo.git](https://github.com/github-ankit/sg-makeit-test)
+    git clone (https://github.com/github-ankit/sg-makeit-test)
     ```
 2. Navigate to the backend directory:
     ```bash
@@ -93,10 +93,16 @@ To run the application, ensure that the backend server is up and running, and th
 
 ## Screenshots
 
-![Login Page](screenshots/login_page.png)
+![Login Page](https://github.com/github-ankit/sg-makeit-test/blob/main/login.png)
 *Description: Login page for user authentication.*
 
-![Product List](screenshots/product_list.png)
+![Product List](https://github.com/github-ankit/sg-makeit-test/blob/main/product_list.png)
 *Description: Product list view.*
+
+![Product Details](https://github.com/github-ankit/sg-makeit-test/blob/main/product_details.png)
+*Description: Product details view.*
+
+![Add Product PAge](https://github.com/github-ankit/sg-makeit-test/blob/main/add_product.png)
+*Description: Add product to add new products view.*
 
 
