@@ -91,6 +91,16 @@ This project is a full-stack web application that leverages a Spring Boot backen
 
 To run the application, ensure that the backend server is up and running, and then start the frontend Flutter Web application. Access the application via `http://localhost:8081` in your web browser.
 
+To build the project :
+- Android
+-      ```bash
+    flutter build apk
+    ```
+- iOS
+-      ```bash
+    flutter build ipa
+    ```
+
 ## Screenshots
 
 ![Login Page](https://github.com/github-ankit/sg-makeit-test/blob/main/login.png)
