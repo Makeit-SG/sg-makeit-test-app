@@ -93,11 +93,11 @@ To run the application, ensure that the backend server is up and running, and th
 
 To build the project :
 - Android
--      ```bash
+   ```bash
     flutter build apk
     ```
 - iOS
--      ```bash
+   ```bash
     flutter build ipa
     ```
 
